@@ -30,7 +30,7 @@ async def start(bot, update):
             await bot.send_document(
                 chat_id=update.chat.id,
                 document = file_id,
-                caption = f"<code>{file_name} @srsuggestions</code>  \n <b>Movies 🔻 \n @srsuggestionsseries \n Series 🔻 \n @srsuggestionsmc \n Group 🔻 \n @srsuggestionsofficial</b>",
+                caption = f"<code>{file_name}-@srsuggestions.mk</code>  \n <b>series 🔻 \n @srsuggestionsseries \n Movies 🔻 \n @srsuggestionsmc \n Group 🔻 \n @srsuggestionsofficial</b>",
                 parse_mode="html",
                 reply_to_message_id=update.message_id,
                 reply_markup=InlineKeyboardMarkup(
