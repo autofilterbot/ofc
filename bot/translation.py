@@ -4,10 +4,10 @@
 
 class Translation(object):
     
-    START_TEXT = """<b>Hi {}!!</b>
+    START_TEXT = """<b>Bruh {}!!</b>
 <i>Am Just A Advance Auto Filter Bot....😉
 
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
+Just Add Me To Your Group  And See My Pevers 🔥🔥😝
 
 For More Details Click Help Button Below..
 @srsuggestionsseries
