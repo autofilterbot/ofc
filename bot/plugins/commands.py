@@ -76,7 +76,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/CrazyBotsz"
+                                    'JOIN', url="https://t.me/srsuggestionsmc"
                                 )
                         ]
                     ]
